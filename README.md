@@ -1,6 +1,6 @@
 ### Olá, Meu nome é Luca Carinhena
 
-- 🔭 Atualmente estudando linguagens para me tornar Full-stack
+- 🔭 Atualmente estudando Engenharia de Software
  - 🌱 Sou de Curitiba/Paraná
 - 🧷 Conhecimento Básico em: Java, JavaScript, Python, C, C++, HTML e CSS.
 - 📋 Aprendendo ReactJS e NodeJS
