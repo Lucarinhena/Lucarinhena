@@ -1,9 +1,10 @@
 ### Olá, Meu nome é Luca Carinhena
 
 - 🔭 Atualmente estudando Engenharia de Software
+- Desenvolvedor NodeJs 
  - 🌱 Sou de Curitiba/Paraná
-- 🧷 Conhecimento Básico em: Java, JavaScript, Python, C, C++, HTML e CSS.
-- 📋 Aprendendo ReactJS e NodeJS
+- 🧷 Conhecimento Básico em: PHP, Python, C, C++, ReactJS
+- 📋 Aprendendo a cada dia mais!
 - 📫 E-mail para contato: luca_carinhena@hotmail.com
 
 
