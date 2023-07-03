@@ -8,7 +8,6 @@
 - 📫 E-mail para contato: luca_carinhena@hotmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucarinhena&show_icons=true&theme=omni)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucarinhena&layout=compact&theme=omni)](https://github.com/Lucarinhena/github-readme-stats)
 
 <div style= "display: inline-block"> <br>
